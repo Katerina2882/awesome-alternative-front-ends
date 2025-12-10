@@ -6,3 +6,4 @@ echo "awesome-alternative-front-ends"
 # drop an unused branch
 # drop an unused branch
 # clarify the control flow
+# keep defaults in sync with the manifest
