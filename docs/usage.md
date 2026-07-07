@@ -11,3 +11,4 @@ Notes and usage details for awesome-alternative-front-ends.
 - clarify the setup steps
 - fix a small wording issue
 - link the usage section
+- fix a small wording issue
